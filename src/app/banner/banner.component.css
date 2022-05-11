@@ -1,0 +1,19 @@
+.banner_sec {
+    height: 500px;
+    background: #10044a;
+    color: #fff;
+}
+.banner_wrap {max-width: 700px;margin: 0 auto;}
+
+.banner_wrap h4 {font-size: 30px;text-transform: uppercase;margin:0}
+
+.banner_wrap p {font-size: 100px;line-height: 110px;text-transform: uppercase;opacity: .35;-webkit-text-stroke: 2px #fff;letter-spacing: .5px;mix-blend-mode: difference; 
+    -webkit-text-stroke: 1px #fff;
+    text-stroke: 2px var #fff;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;mix-blend-mode: difference; 
+    -webkit-text-stroke: 1px #fff;
+    text-stroke: 2px var #fff;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}

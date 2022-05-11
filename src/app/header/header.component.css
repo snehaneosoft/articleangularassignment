@@ -1,0 +1,12 @@
+.header_bar{
+    background-color: #10044a;
+}
+.right_menus ul li {display: inline-block;}
+
+.right_menus {float: right;}
+
+.header_logo {float: left;}
+.clearfix{clear: both;display: table;}
+.right_menus ul li a {color: #fff;text-decoration: none;padding: 0 15px;cursor: pointer;}
+
+.right_menus ul {line-height: 50px;}
